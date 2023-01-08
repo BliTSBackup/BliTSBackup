@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is BliTS Bacjup account
+This is Mad Ui Developer
+
+⚡ Fun fact: 1+1 = 2
