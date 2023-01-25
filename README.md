@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 This is Mad Ui Developer
 
 ⚡ Fun fact: 1+1 = 2
+⚡ Fun fact: 2+2 = 4
+⚡ Fun fact: 117 + 3 = 5!
